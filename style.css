@@ -1,0 +1,26 @@
+.taskStyle {
+  margin: 22px;
+  border: 1px solid green;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.taskNewStyle {
+  margin: 22px;
+  border: 1px solid red;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.container {
+  text-align: center;
+}
+.completed {
+  color: tomato;
+  text-decoration: line-through;
+  border: 2px solid tomato;
+  opacity: 0.6;
+}
+.elementor-51 .elementor-element.elementor-element-529c85a6:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-51 .elementor-element.elementor-element-529c85a6 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: var( --e-global-color-astglobalcolor5 );
+}
